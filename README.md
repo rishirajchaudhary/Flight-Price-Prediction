@@ -3,17 +3,17 @@ This is flight price prediction project that includes exploratory data analysis 
 # Dataset
 The dataset contains the following columns:
 
-Airline: The name of the airline
-Date_of_Journey: The date of the journey
-Source: The source from which the flight departs
-Destination: The destination of the flight
-Route: The route taken by the flight
-Dep_Time: The departure time of the flight
-Arrival_Time: The arrival time of the flight
-Duration: The duration of the flight
-Total_Stops: The total number of stops on the flight
-Additional_Info: Additional information about the flight
-Price: The price of the ticket (the target variable)
+-Airline: The name of the airline
+-Date_of_Journey: The date of the journey
+-Source: The source from which the flight departs
+-Destination: The destination of the flight
+-Route: The route taken by the flight
+-Dep_Time: The departure time of the flight
+-Arrival_Time: The arrival time of the flight
+-Duration: The duration of the flight
+-Total_Stops: The total number of stops on the flight
+-Additional_Info: Additional information about the flight
+-Price: The price of the ticket (the target variable)
 
 # Exploratory Data Analysis
 The exploratory data analysis in this notebook includes the following steps:
